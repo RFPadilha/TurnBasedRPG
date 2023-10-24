@@ -18,6 +18,7 @@ public class Skill : ScriptableObject
         Single,
         All
     }
+
     public Type type;
     public Target target;
     public int chanceToHit;

@@ -21,6 +21,8 @@ public class ManaSystem
     {
         return (float)mana / maxMana;
     }
+
+
     //Functions that trigger "onManaChanged" event
     public void SetMana(int value)
     {
